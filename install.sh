@@ -84,3 +84,5 @@ source $OMARCHY_INSTALL/preflight/migrations.sh
 #show_subtext "You're done! So we'll be rebooting now..."
 #sleep 2
 #reboot
+
+echo complete
